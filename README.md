@@ -11,7 +11,6 @@ This project explores various graph implementations using adjacency matrices and
 
 ## Usage
 
-
 The project supports four types of graphs: directed, undirected, weighted, and unweighted. To interact with the graphs, modify the Main.java file.
 
 ## File Structure
